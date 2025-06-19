@@ -76,6 +76,10 @@
       "baseline": "20250127.1",
       "port-version": 1
     },
+    "protobuf": {
+      "baseline": "5.29.3",
+      "port-version": 1
+    },
     "wedprcrypto": {
       "baseline": "1.3.2",
       "port-version": 0
