@@ -80,6 +80,10 @@
       "baseline": "5.29.3",
       "port-version": 1
     },
+    "utf8-range": {
+      "baseline": "5.29.3",
+      "port-version": 0
+    },
     "wedprcrypto": {
       "baseline": "1.3.2",
       "port-version": 0
